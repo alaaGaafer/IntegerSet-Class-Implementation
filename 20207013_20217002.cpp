@@ -1,4 +1,4 @@
-#include <iostream>                                  //Alaa usama mohammed shawky-20207013_Julia Hany Fawzy Wahba-20217002
+#include <iostream>                                
 
 using namespace std;
 int Size=101;          //making size a global variable
